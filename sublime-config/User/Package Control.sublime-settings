@@ -1,0 +1,69 @@
+{
+	"bootstrapped": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp/cache",
+		".vagrant"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Canvas Snippets",
+		"CSS Format",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"File History",
+		"Git",
+		"Glue",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"MySQL Snippets",
+		"NSIS Plug-in Completions",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Codebeautifier",
+		"PHP Form Builder",
+		"RailsCasts Colour Scheme",
+		"React Templates",
+		"ReactJS",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SidebarSeparator",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-contrib-sublime-syntax",
+		"SublimeLinter-csslint",
+		"SublimeLinter-hlint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phplint",
+		"SyncedSidebarBg",
+		"Terminal",
+		"Theme - Glacier",
+		"TrailingSpaces"
+	],
+	"tab_size": 2
+}
